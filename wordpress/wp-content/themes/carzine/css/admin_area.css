@@ -1,0 +1,15 @@
+.admin-premium-theme{
+padding:10px;
+background:#fafafa;
+border:1px solid #ffa500;
+}
+.admin-premium-theme a{
+    background: #ffa500;
+    padding:10px 10px;
+    color:#fff;
+    text-decoration:none;
+    display:inline-block;
+}
+.admin_btn{
+    margin-right:10px;
+}
